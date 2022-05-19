@@ -67,7 +67,6 @@ else{
                       )
                 }>
                 
-              {/* <span className="changeColor-edit icon-size icon-edit-position"> */}
 
                 {user?.result?._id === creator && < FiEdit2 size="20px" onClick={()=>setEdit(true)}/>}
               </span>
@@ -79,7 +78,6 @@ else{
                       )
                 }>
 
-              {/* <span className="changeColor-delete icon-size icon-delete-position"> */}
                 {user?.result?._id === creator && <FiArchive size="20px" onClick={() =>dispatch(deleteCardAction(id))}/>}
               </span>
 
@@ -93,8 +91,7 @@ else{
                 }>
                 {user?.result?._id && <FiStar size="20px" onClick={() =>dispatch(favourCardAction(id))}
               />}
-                {/* <span className="changeColor-favor icon-size icon-favor-position"></span> */}
-                {/* { "isActiveStar ": favorites.includes(user?.result?._id)}, */}
+                
               </span>
 
           </div>

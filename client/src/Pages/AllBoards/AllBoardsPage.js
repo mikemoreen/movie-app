@@ -8,9 +8,6 @@ import "./AllBoardsPage.css"
 
 const AllBoardsPage  = () => {
     const cards = useSelector((state)=>state.cards)
-    const reduxState = useSelector((state)=>state)
-    // console.log(reduxState)
-    console.log(cards)
 
     if(!cards){
         return (

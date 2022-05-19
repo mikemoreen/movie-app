@@ -1,6 +1,4 @@
-import React, {Component} from "react";
-
-import { Image } from "react-bootstrap";
+import React from "react";
 
 import "./MyBoardPage.css"
 
@@ -13,7 +11,6 @@ function MyBoardPage() {
   return (
 
     <>
-        
     </>
     )
   }
