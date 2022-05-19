@@ -1,0 +1,6 @@
+.loading{
+    display: flex;
+    position: relative;
+    top: 50px;
+    justify-content: center;
+  }

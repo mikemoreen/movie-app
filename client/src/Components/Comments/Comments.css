@@ -1,0 +1,9 @@
+.card-comments {
+    background-color: #fff;
+    border-radius: 15px;
+    -webkit-box-shadow: 0 3px 10px #c7c8d2;
+    box-shadow: 0 3px 10px #c7c8d2;
+    max-width: 561px;
+    padding: 24px 34px;
+    width: 100%;
+}

@@ -1,0 +1,37 @@
+/* .comments{
+    padding: 100px;
+    border: 100px;
+    
+}
+.film-details{
+    border-radius: 5px;
+    width: 800px;
+    height: 250px;
+    display: flex;
+    
+} */
+
+
+
+
+.container {
+    margin: 0 auto;
+    max-width: 1180px;
+    width: 100%;
+}
+
+.comm{
+    grid-gap: 54px;
+    display: grid;
+    gap: 53px;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 54px;
+    position: relative;
+}
+
+.not-auth{
+    display: flex;
+    position: relative;
+    top: 50px;
+    justify-content: center;
+  }

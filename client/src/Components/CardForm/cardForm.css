@@ -1,0 +1,26 @@
+.form_center {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: -300px;
+  top: 20px;
+  margin-top: 5vh;
+  padding: 2vh 2vh 2vh 2vh;
+
+  }
+  .success-add-position{
+    display: flex;
+    position: relative;
+    top: 50px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .not-auth-position{
+    display: flex;
+    position: relative;
+    top: 50px;
+    justify-content: center;
+  }
+

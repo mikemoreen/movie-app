@@ -1,0 +1,11 @@
+.app{
+    display:flex;
+    flex-flow: column;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 30px 20px 30px 20px;
+    min-height: 100vh;
+    min-width: 100vw;
+    overflow: none;
+    scrollbar-width: none;
+}

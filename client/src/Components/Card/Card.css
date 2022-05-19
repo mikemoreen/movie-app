@@ -1,0 +1,92 @@
+  .card_size{
+    width: 20rem;
+    height: 15rem;
+    margin-bottom: 15rem;
+    margin-left: 1rem
+
+  }
+
+  .changeColor-edit:hover {
+    color: rgb(15, 141, 199);
+  }
+  .form-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .icon-size{
+    width: 24px;
+  }
+  
+
+  .changeColor-delete:hover {
+    color: rgb(235, 6, 6);
+  }
+
+
+  .card-img-position{
+    position: relative;
+    right: 12px;
+  }
+
+  .card-img-size{
+    width: 250px;
+    height: 220px;
+  }
+  .card-header-size{
+    height: 25px;
+  }
+
+  .icon-edit-position{
+    position: relative;
+    top: -10px;
+    left: 200px;
+  }
+    .icon-delete-position{
+    position: relative;
+    left: 210px;
+    top: -10px;
+  }
+
+  .changeColor-heart:hover {
+    fill: pink;
+  }
+  .isActive {
+    fill: pink
+  }
+
+  .counter-position{
+    position: relative;
+    left: 5px;
+    top: 1px;
+  }
+
+
+  .icon-favor-position{
+    position: relative;
+    top: -10px;
+    left: -50px;
+  }
+
+  .icon-favor-position-not-creator{
+    position: relative;
+    top: -10px;
+    left: -10px;
+  }
+
+  .changeColor-favor:hover {
+    color: rgb(255, 208, 0);
+  }
+
+  .isActiveStar {
+    color: rgb(255, 208, 0);
+  }
+  
+  .isHidden{
+    visibility:hidden
+  }
+  .card-img-cursor{
+    cursor: pointer;
+  }
