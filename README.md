@@ -15,6 +15,10 @@ Movie Board – приложение для настоящих киномано�
 4. добавляйте любимые произведения в избранное
 5. лайки
 
+## Tech stack
+Frontend: React, React-Router, React-Redux, Bootstrap, Axios, Deploy: Netlify.
+Backend: MongoDB, Express, NodeJS, Deploy: Heroku.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76906355/176107935-59b6dd3a-6965-4325-9a43-f7b16ecfe424.png" width="50%">
 </p>
