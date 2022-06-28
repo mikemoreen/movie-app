@@ -17,6 +17,7 @@ Movie Board – приложение для настоящих киномано�
 
 ## Tech stack
 Frontend: React, React-Router, React-Redux, Bootstrap, Axios, Deploy: Netlify.
+
 Backend: MongoDB, Express, NodeJS, Deploy: Heroku.
 
 <p align="center">
