@@ -2,7 +2,6 @@
 
 ## Курсовой проект на курсе Tinkoff Fintech School, Frontend, весна 2022
 
-Выполнил: Иванков Владислав Геннадьевич
 https://movie-boards.netlify.app/
 
 ## Описание проекта
